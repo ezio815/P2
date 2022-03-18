@@ -1,6 +1,5 @@
 #include "./general.h"
 #include <string.h>
-#include <stdio.h>
 
 bool esPalindrome(uint n, char *texto) {
     bool resultado = texto[n] == texto[strlen(texto) - (n + 1)];

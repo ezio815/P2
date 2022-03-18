@@ -1,5 +1,4 @@
 #include "general.h"
-#include <stdio.h>
 
 uint maxComDivRec(uint n, uint a, uint b) {
     if (a % n == 0 && b % n == 0)

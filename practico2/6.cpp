@@ -1,5 +1,4 @@
 #include "general.h"
-#include <stdio.h>
 
 uint factAcum ( uint n , int acum ) {
     if (n == 0)
