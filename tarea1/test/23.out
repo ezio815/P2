@@ -1,0 +1,18 @@
+1>#  implementar infoEnColCadenas.
+2>Se insertó (3,3.00) en la cadena 0.
+3>Se insertó (3,13.10) en la cadena 0.
+4>Se insertó (3,13.10) en la cadena 9.
+5>Se insertó (3,13.10) en la cadena 5.
+6>Se insertó (8,8.00) en la cadena 0.
+7>Se insertó (9,9.00) en la cadena 0.
+8>Se insertó (5,5.00) en la cadena 5.
+9>Se insertó (6,6.00) en la cadena 5.
+10>Se insertó (7,7.00) en la cadena 5.
+11>Se insertó (4,4.00) en la cadena 9.
+12>La primera aparición de 3 en la cadena 0 es (3,13.10)
+13>La primera aparición de 3 en la cadena 5 es (3,13.10)
+14>La primera aparición de 3 en la cadena 9 es (3,13.10)
+15>La primera aparición de 9 en la cadena 0 es (9,9.00)
+16>La primera aparición de 6 en la cadena 5 es (6,6.00)
+17>La primera aparición de 4 en la cadena 9 es (4,4.00)
+18>Fin.

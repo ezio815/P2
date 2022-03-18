@@ -1,0 +1,6 @@
+# implementar _rep_colCadenas, crearColCadenas, cantidadColCadenas, estaEnColCadenas
+cantidadColCadenas 0
+cantidadColCadenas 9
+estaEnColCadenas 5 0
+estaEnColCadenas 5 9
+Fin

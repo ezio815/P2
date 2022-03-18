@@ -1,0 +1,30 @@
+# implementar insertarEnColCadenas
+cantidadColCadenas 0
+cantidadColCadenas 9
+insertarEnColCadenas 3 3.0 0
+estaEnColCadenas 3 0
+estaEnColCadenas 3 1
+insertarEnColCadenas 3 13.1 9
+insertarEnColCadenas 3 13.1 5
+cantidadColCadenas 0
+cantidadColCadenas 1
+cantidadColCadenas 5
+cantidadColCadenas 9
+estaEnColCadenas 3 9
+estaEnColCadenas 3 5
+insertarEnColCadenas 8 8.0 0
+insertarEnColCadenas 9 9.0 0
+insertarEnColCadenas 5 5.0 5
+insertarEnColCadenas 6 6.0 5
+insertarEnColCadenas 7 7.0 5
+insertarEnColCadenas 4 4.0 9
+cantidadColCadenas 0
+cantidadColCadenas 1
+cantidadColCadenas 5
+cantidadColCadenas 9
+estaEnColCadenas 9 0
+estaEnColCadenas 9 5
+estaEnColCadenas 6 5
+estaEnColCadenas 4 0
+estaEnColCadenas 4 9
+Fin

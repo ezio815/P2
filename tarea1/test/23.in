@@ -1,0 +1,18 @@
+# implementar infoEnColCadenas
+insertarEnColCadenas 3 3.0 0
+insertarEnColCadenas 3 13.1 0
+insertarEnColCadenas 3 13.1 9
+insertarEnColCadenas 3 13.1 5
+insertarEnColCadenas 8 8.0 0
+insertarEnColCadenas 9 9.0 0
+insertarEnColCadenas 5 5.0 5
+insertarEnColCadenas 6 6.0 5
+insertarEnColCadenas 7 7.0 5
+insertarEnColCadenas 4 4.0 9
+infoEnColCadenas 3 0
+infoEnColCadenas 3 5
+infoEnColCadenas 3 9
+infoEnColCadenas 9 0
+infoEnColCadenas 6 5
+infoEnColCadenas 4 9
+Fin

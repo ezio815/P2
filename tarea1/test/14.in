@@ -1,0 +1,56 @@
+# implementar removerDeCadena
+insertarAlInicio 5 5.0
+imprimirCadena
+removerDeCadena 5
+# se removió el único
+imprimirCadena
+estaEnCadena 5
+cantidadEnCadena
+insertarAlInicio 5 5.0
+imprimirCadena
+cantidadEnCadena
+infoCadena 5
+insertarAlInicio 1 11.1
+insertarAlInicio 0 0.0
+insertarAlInicio 5 15.5
+imprimirCadena
+removerDeCadena 5
+# se removió el primero de los 5, que además es el primero de la cadena
+imprimirCadena
+estaEnCadena 5
+cantidadEnCadena
+infoCadena 1
+infoCadena 0
+infoCadena 5
+removerDeCadena 5
+# se removió el último
+imprimirCadena
+estaEnCadena 5
+cantidadEnCadena
+insertarAlInicio 2 2.0
+imprimirCadena
+removerDeCadena 0
+# se removió un elemento intermedio
+imprimirCadena
+estaEnCadena 0
+infoCadena 1
+infoCadena 2
+cantidadEnCadena
+insertarAlInicio 8 8.0
+insertarAlInicio 3 3.0
+insertarAlInicio 7 7.0
+insertarAlInicio 4 4.0
+insertarAlInicio 6 6.0
+insertarAlInicio 1 1.0
+insertarAlInicio 5 1.0
+insertarAlInicio 7 17.0
+imprimirCadena
+infoCadena 7
+cantidadEnCadena
+removerDeCadena 7
+# se removió el primero de los 7, que NO es el primero de la cadena
+imprimirCadena
+cantidadEnCadena
+estaEnCadena 7
+infoCadena 7
+Fin

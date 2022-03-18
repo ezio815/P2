@@ -1,0 +1,30 @@
+1>#  implementar insertarEnColCadenas.
+2>La cantidad en la cadena 0 es 0.
+3>La cantidad en la cadena 9 es 0.
+4>Se insertó (3,3.00) en la cadena 0.
+5>3 está en la cadena 0.
+6>3 no está en la cadena 1.
+7>Se insertó (3,13.10) en la cadena 9.
+8>Se insertó (3,13.10) en la cadena 5.
+9>La cantidad en la cadena 0 es 1.
+10>La cantidad en la cadena 1 es 0.
+11>La cantidad en la cadena 5 es 1.
+12>La cantidad en la cadena 9 es 1.
+13>3 está en la cadena 9.
+14>3 está en la cadena 5.
+15>Se insertó (8,8.00) en la cadena 0.
+16>Se insertó (9,9.00) en la cadena 0.
+17>Se insertó (5,5.00) en la cadena 5.
+18>Se insertó (6,6.00) en la cadena 5.
+19>Se insertó (7,7.00) en la cadena 5.
+20>Se insertó (4,4.00) en la cadena 9.
+21>La cantidad en la cadena 0 es 3.
+22>La cantidad en la cadena 1 es 0.
+23>La cantidad en la cadena 5 es 4.
+24>La cantidad en la cadena 9 es 2.
+25>9 está en la cadena 0.
+26>9 no está en la cadena 5.
+27>6 está en la cadena 5.
+28>4 no está en la cadena 0.
+29>4 está en la cadena 9.
+30>Fin.

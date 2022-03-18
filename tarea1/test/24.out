@@ -1,0 +1,33 @@
+1>#  implementar removerDeColCadenas.
+2>Se insertó (3,3.00) en la cadena 0.
+3>Se insertó (3,13.10) en la cadena 0.
+4>Se insertó (3,13.10) en la cadena 9.
+5>Se insertó (3,13.10) en la cadena 5.
+6>Se insertó (8,8.00) en la cadena 0.
+7>Se insertó (9,9.00) en la cadena 0.
+8>Se insertó (5,5.00) en la cadena 5.
+9>Se insertó (6,6.00) en la cadena 5.
+10>Se insertó (7,7.00) en la cadena 5.
+11>Se insertó (4,4.00) en la cadena 9.
+12>La cantidad en la cadena 0 es 4.
+13>La cantidad en la cadena 5 es 4.
+14>La cantidad en la cadena 9 es 2.
+15>La primera aparición de 3 en la cadena 0 es (3,13.10)
+16>Se removió la primera aparición de 3 de la cadena 0.
+17>3 está en la cadena 0.
+18>La primera aparición de 6 en la cadena 5 es (6,6.00)
+19>Se removió la primera aparición de 6 de la cadena 5.
+20>6 no está en la cadena 5.
+21>Se removió la primera aparición de 3 de la cadena 5.
+22>Se removió la primera aparición de 4 de la cadena 9.
+23>Se removió la primera aparición de 3 de la cadena 9.
+24>La cantidad en la cadena 0 es 3.
+25>La cantidad en la cadena 5 es 2.
+26>La cantidad en la cadena 9 es 0.
+27>Se insertó (3,3.00) en la cadena 0.
+28>La primera aparición de 3 en la cadena 0 es (3,3.00)
+29>La cantidad en la cadena 0 es 4.
+30>Se insertó (6,16.10) en la cadena 5.
+31>6 está en la cadena 5.
+32>La primera aparición de 6 en la cadena 5 es (6,16.10)
+33>Fin.
