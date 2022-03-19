@@ -1,2 +1,0 @@
-3fe5ef53c641fbeeaa76e7e9f97354c55b783294  src/cadena.cpp
-818774ecd14de1c9e80137e717f720024b38e2a2  src/colCadenas.cpp
