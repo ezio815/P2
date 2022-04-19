@@ -1,0 +1,9 @@
+# implementar buscarSubarbol, insertarEnAbb (al menos en un árbol vacío), raiz, izquierdo, derecho
+insertarEnAbb (5,5.0)
+esVacioAbb
+buscarSubarbol 5
+buscarSubarbol 3
+raiz
+izquierdo
+derecho
+Fin

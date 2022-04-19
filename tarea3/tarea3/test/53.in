@@ -1,0 +1,37 @@
+# implementar insertarEnAbb, menorEnAbb, mayorEnAbb
+insertarEnAbb (50,50.0)
+menorEnAbb
+mayorEnAbb
+insertarEnAbb (30,30.0)
+buscarSubarbol 30
+menorEnAbb
+mayorEnAbb
+insertarEnAbb (80,80.0)
+insertarEnAbb (90,90.0)
+mayorEnAbb
+buscarSubarbol 80
+buscarSubarbol 90
+insertarEnAbb (85,85.0)
+insertarEnAbb (40,40.0)
+menorEnAbb
+mayorEnAbb
+reiniciarEstructuras
+insertarEnAbb (12,12.0)
+insertarEnAbb (8,8.0)
+insertarEnAbb (5,5.0)
+insertarEnAbb (4,4.0)
+insertarEnAbb (2,2.0)
+insertarEnAbb (7,7.0)
+insertarEnAbb (6,6.0)
+insertarEnAbb (11,11.0)
+insertarEnAbb (18,18.0)
+insertarEnAbb (17,17.0)
+raiz
+izquierdo
+derecho
+menorEnAbb
+mayorEnAbb
+buscarSubarbol 12
+buscarSubarbol 5
+buscarSubarbol 18
+Fin

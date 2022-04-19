@@ -1,0 +1,68 @@
+# implementar removerDeAbb
+insertarEnAbb (5,5.0)
+removerDeAbb 5
+buscarSubarbol 5
+esVacioAbb
+reiniciarEstructuras
+insertarEnAbb (12,12.0)
+insertarEnAbb (8,8.0)
+insertarEnAbb (5,5.0)
+insertarEnAbb (4,4.0)
+insertarEnAbb (2,2.0)
+insertarEnAbb (7,7.0)
+insertarEnAbb (6,6.0)
+insertarEnAbb (11,11.0)
+insertarEnAbb (38,38.0)
+insertarEnAbb (17,17.0)
+insertarEnAbb (20,20.0)
+insertarEnAbb (30,30.0)
+removerDeAbb 2
+removerDeAbb 38
+menorEnAbb
+mayorEnAbb
+derecho
+buscarSubarbol 2
+buscarSubarbol 17
+buscarSubarbol 38
+removerDeAbb 12
+raiz
+izquierdo
+derecho
+removerDeAbb 11
+raiz
+izquierdo
+derecho
+removerDeAbb 8
+raiz
+izquierdo
+derecho
+removerDeAbb 7
+raiz
+izquierdo
+derecho
+removerDeAbb 6
+raiz
+izquierdo
+derecho
+removerDeAbb 5
+raiz
+izquierdo
+derecho
+removerDeAbb 4
+raiz
+izquierdo
+derecho
+esVacioAbb
+removerDeAbb 20
+raiz
+izquierdo
+derecho
+esVacioAbb
+removerDeAbb 17
+raiz
+izquierdo
+derecho
+esVacioAbb
+removerDeAbb 30
+esVacioAbb
+Fin

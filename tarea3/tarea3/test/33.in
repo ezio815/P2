@@ -1,0 +1,12 @@
+# implementar reiniciarIterador
+reiniciarIterador
+estaDefinidaActual
+agregarAIterador 5
+reiniciarIterador
+estaDefinidaActual
+agregarAIterador 5
+agregarAIterador 5
+agregarAIterador 5
+reiniciarIterador
+estaDefinidaActual
+Fin

@@ -1,0 +1,20 @@
+2c2
+< 2>El abb es perfecto.
+---
+> 2>El abb NO es perfecto.
+4c4
+< 4>El abb es perfecto.
+---
+> 4>El abb NO es perfecto.
+8c8
+< 8>El abb es perfecto.
+---
+> 8>El abb NO es perfecto.
+15c15
+< 15>El abb es perfecto.
+---
+> 15>El abb NO es perfecto.
+25c25
+< 25>El abb es perfecto.
+---
+> 25>El abb NO es perfecto.

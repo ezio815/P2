@@ -1,0 +1,68 @@
+1>#  implementar removerDeAbb.
+2>Se insertó (5,5.00) en el abb.
+3>Se removió 5 del abb.
+4>5 no está en el abb.
+5>El abb es vacío.
+6>Estructuras reiniciadas.
+7>Se insertó (12,12.00) en el abb.
+8>Se insertó (8,8.00) en el abb.
+9>Se insertó (5,5.00) en el abb.
+10>Se insertó (4,4.00) en el abb.
+11>Se insertó (2,2.00) en el abb.
+12>Se insertó (7,7.00) en el abb.
+13>Se insertó (6,6.00) en el abb.
+14>Se insertó (11,11.00) en el abb.
+15>Se insertó (38,38.00) en el abb.
+16>Se insertó (17,17.00) en el abb.
+17>Se insertó (20,20.00) en el abb.
+18>Se insertó (30,30.00) en el abb.
+19>Se removió 2 del abb.
+20>Se removió 38 del abb.
+21>El menor en el abb es: (4,4.00)
+22>El mayor en el abb es: (30,30.00)
+23>La raíz del hijo derecho del abb es: (17,17.00)
+24>2 no está en el abb.
+25>(17,17.00)
+26>38 no está en el abb.
+27>Se removió 12 del abb.
+28>La raíz del abb es: (11,11.00)
+29>La raíz del hijo izquierdo del abb es: (8,8.00)
+30>La raíz del hijo derecho del abb es: (17,17.00)
+31>Se removió 11 del abb.
+32>La raíz del abb es: (8,8.00)
+33>La raíz del hijo izquierdo del abb es: (5,5.00)
+34>La raíz del hijo derecho del abb es: (17,17.00)
+35>Se removió 8 del abb.
+36>La raíz del abb es: (7,7.00)
+37>La raíz del hijo izquierdo del abb es: (5,5.00)
+38>La raíz del hijo derecho del abb es: (17,17.00)
+39>Se removió 7 del abb.
+40>La raíz del abb es: (6,6.00)
+41>La raíz del hijo izquierdo del abb es: (5,5.00)
+42>La raíz del hijo derecho del abb es: (17,17.00)
+43>Se removió 6 del abb.
+44>La raíz del abb es: (5,5.00)
+45>La raíz del hijo izquierdo del abb es: (4,4.00)
+46>La raíz del hijo derecho del abb es: (17,17.00)
+47>Se removió 5 del abb.
+48>La raíz del abb es: (4,4.00)
+49>El abb no tiene hijo izquierdo.
+50>La raíz del hijo derecho del abb es: (17,17.00)
+51>Se removió 4 del abb.
+52>La raíz del abb es: (17,17.00)
+53>El abb no tiene hijo izquierdo.
+54>La raíz del hijo derecho del abb es: (20,20.00)
+55>El abb NO es vacío.
+56>Se removió 20 del abb.
+57>La raíz del abb es: (17,17.00)
+58>El abb no tiene hijo izquierdo.
+59>La raíz del hijo derecho del abb es: (30,30.00)
+60>El abb NO es vacío.
+61>Se removió 17 del abb.
+62>La raíz del abb es: (30,30.00)
+63>El abb no tiene hijo izquierdo.
+64>El abb no tiene hijo derecho.
+65>El abb NO es vacío.
+66>Se removió 30 del abb.
+67>El abb es vacío.
+68>Fin.

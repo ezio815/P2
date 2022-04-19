@@ -1,0 +1,29 @@
+==8296== Invalid read of size 8
+==8296==    at 0x10A8E8: reiniciarIterador(_rep_iterador*) (iterador.cpp:63)
+==8296==    by 0x109C81: main (principal.cpp:217)
+==8296==  Address 0x0 is not stack'd, malloc'd or (recently) free'd
+==8296== 
+==8296== 
+==8296== Process terminating with default action of signal 11 (SIGSEGV)
+==8296==  Access not within mapped region at address 0x0
+==8296==    at 0x10A8E8: reiniciarIterador(_rep_iterador*) (iterador.cpp:63)
+==8296==    by 0x109C81: main (principal.cpp:217)
+==8296==  If you believe this happened as a result of a stack
+==8296==  overflow in your program's main thread (unlikely but
+==8296==  possible), you can try to increase the size of the
+==8296==  main thread stack using the --main-stacksize= flag.
+==8296==  The main thread stack size used in this run was 8388608.
+1>#  implementar caminoAscendente.
+2>Se insertó (20,20.00) en el abb.
+3>Se insertó (15,25.00) en el abb.
+4>Se insertó (10,10.00) en el abb.
+5>Se insertó (40,11.00) en el abb.
+6>Se insertó (50,5.00) en el abb.
+7>Se insertó (30,15.00) en el abb.
+8>Se insertó (25,6.00) en el abb.
+9>Se insertó (35,10.00) en el abb.
+10>Se insertó (32,5.00) en el abb.
+11>Se insertó (27,4.00) en el abb.
+12>
+13>timeout: the monitored command dumped core
+Segmentation fault

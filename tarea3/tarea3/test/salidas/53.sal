@@ -1,0 +1,37 @@
+1>#  implementar insertarEnAbb, menorEnAbb, mayorEnAbb.
+2>Se insertó (50,50.00) en el abb.
+3>El menor en el abb es: (50,50.00)
+4>El mayor en el abb es: (50,50.00)
+5>Se insertó (30,30.00) en el abb.
+6>(30,30.00)
+7>El menor en el abb es: (30,30.00)
+8>El mayor en el abb es: (50,50.00)
+9>Se insertó (80,80.00) en el abb.
+10>Se insertó (90,90.00) en el abb.
+11>El mayor en el abb es: (90,90.00)
+12>(80,80.00)
+13>(90,90.00)
+14>Se insertó (85,85.00) en el abb.
+15>Se insertó (40,40.00) en el abb.
+16>El menor en el abb es: (30,30.00)
+17>El mayor en el abb es: (90,90.00)
+18>Estructuras reiniciadas.
+19>Se insertó (12,12.00) en el abb.
+20>Se insertó (8,8.00) en el abb.
+21>Se insertó (5,5.00) en el abb.
+22>Se insertó (4,4.00) en el abb.
+23>Se insertó (2,2.00) en el abb.
+24>Se insertó (7,7.00) en el abb.
+25>Se insertó (6,6.00) en el abb.
+26>Se insertó (11,11.00) en el abb.
+27>Se insertó (18,18.00) en el abb.
+28>Se insertó (17,17.00) en el abb.
+29>La raíz del abb es: (12,12.00)
+30>La raíz del hijo izquierdo del abb es: (8,8.00)
+31>La raíz del hijo derecho del abb es: (18,18.00)
+32>El menor en el abb es: (2,2.00)
+33>El mayor en el abb es: (18,18.00)
+34>(12,12.00)
+35>(5,5.00)
+36>(18,18.00)
+37>Fin.

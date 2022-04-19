@@ -1,0 +1,9 @@
+1>#  implementar buscarSubarbol, insertarEnAbb (al menos en un árbol vacío), raiz, izquierdo, derecho.
+2>Se insertó (5,5.00) en el abb.
+3>El abb NO es vacío.
+4>(5,5.00)
+5>3 no está en el abb.
+6>La raíz del abb es: (5,5.00)
+7>El abb no tiene hijo izquierdo.
+8>El abb no tiene hijo derecho.
+9>Fin.

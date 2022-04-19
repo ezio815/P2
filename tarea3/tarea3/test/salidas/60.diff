@@ -1,0 +1,36 @@
+10,11c10
+< cal
+< can
+---
+> palabras no contiene c.
+13c12
+< mensaje
+---
+> palabras no contiene m.
+15,16c14
+< los
+< losas
+---
+> palabras no contiene lo.
+18c16
+< losas
+---
+> palabras no contiene losas.
+22c20
+< mensaje
+---
+> palabras no contiene mensaj.
+30c28
+< a
+---
+> palabras no contiene a.
+32c30
+< mensaje
+---
+> palabras no contiene men.
+36,38c34
+< mes
+< mesa
+< mesada
+---
+> palabras no contiene mes.

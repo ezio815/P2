@@ -1,0 +1,82 @@
+0a1,74
+> ==8239== Invalid read of size 4
+> ==8239==    at 0x10B20C: infoATexto(_rep_info*) (info.cpp:49)
+> ==8239==    by 0x10B38D: imprimirInfo(_rep_info*) (info.cpp:76)
+> ==8239==    by 0x1096B7: main (principal.cpp:121)
+> ==8239==  Address 0x4db6680 is 0 bytes inside a block of size 16 free'd
+> ==8239==    at 0x483D1CF: operator delete(void*, unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==8239==    by 0x10B16D: liberarInfo(_rep_info*) (info.cpp:37)
+> ==8239==    by 0x10AD52: removerDeAbb2(unsigned int, _rep_abb*&) (abb.cpp:114)
+> ==8239==    by 0x10AE60: removerDeAbb2(unsigned int, _rep_abb*&) (abb.cpp:128)
+> ==8239==    by 0x10AE10: removerDeAbb2(unsigned int, _rep_abb*&) (abb.cpp:123)
+> ==8239==    by 0x10AE8C: removerDeAbb(unsigned int, _rep_abb*) (abb.cpp:135)
+> ==8239==    by 0x10993B: main (principal.cpp:167)
+> ==8239==  Block was alloc'd at
+> ==8239==    at 0x483BE63: operator new(unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==8239==    by 0x10B0EC: crearInfo(unsigned int, double) (info.cpp:25)
+> ==8239==    by 0x10B36F: leerInfo() (info.cpp:72)
+> ==8239==    by 0x1098A7: main (principal.cpp:157)
+> ==8239== 
+> ==8239== Invalid read of size 8
+> ==8239==    at 0x10B22A: infoATexto(_rep_info*) (info.cpp:51)
+> ==8239==    by 0x10B38D: imprimirInfo(_rep_info*) (info.cpp:76)
+> ==8239==    by 0x1096B7: main (principal.cpp:121)
+> ==8239==  Address 0x4db6688 is 8 bytes inside a block of size 16 free'd
+> ==8239==    at 0x483D1CF: operator delete(void*, unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==8239==    by 0x10B16D: liberarInfo(_rep_info*) (info.cpp:37)
+> ==8239==    by 0x10AD52: removerDeAbb2(unsigned int, _rep_abb*&) (abb.cpp:114)
+> ==8239==    by 0x10AE60: removerDeAbb2(unsigned int, _rep_abb*&) (abb.cpp:128)
+> ==8239==    by 0x10AE10: removerDeAbb2(unsigned int, _rep_abb*&) (abb.cpp:123)
+> ==8239==    by 0x10AE8C: removerDeAbb(unsigned int, _rep_abb*) (abb.cpp:135)
+> ==8239==    by 0x10993B: main (principal.cpp:167)
+> ==8239==  Block was alloc'd at
+> ==8239==    at 0x483BE63: operator new(unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==8239==    by 0x10B0EC: crearInfo(unsigned int, double) (info.cpp:25)
+> ==8239==    by 0x10B36F: leerInfo() (info.cpp:72)
+> ==8239==    by 0x1098A7: main (principal.cpp:157)
+> ==8239== 
+> ==8239== Invalid read of size 4
+> ==8239==    at 0x10B181: natInfo(_rep_info*) (info.cpp:39)
+> ==8239==    by 0x10AD08: removerDeAbb2(unsigned int, _rep_abb*&) (abb.cpp:110)
+> ==8239==    by 0x10AE8C: removerDeAbb(unsigned int, _rep_abb*) (abb.cpp:135)
+> ==8239==    by 0x10993B: main (principal.cpp:167)
+> ==8239==  Address 0x4db6680 is 0 bytes inside a block of size 16 free'd
+> ==8239==    at 0x483D1CF: operator delete(void*, unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==8239==    by 0x10B16D: liberarInfo(_rep_info*) (info.cpp:37)
+> ==8239==    by 0x10AD52: removerDeAbb2(unsigned int, _rep_abb*&) (abb.cpp:114)
+> ==8239==    by 0x10AE60: removerDeAbb2(unsigned int, _rep_abb*&) (abb.cpp:128)
+> ==8239==    by 0x10AE10: removerDeAbb2(unsigned int, _rep_abb*&) (abb.cpp:123)
+> ==8239==    by 0x10AE8C: removerDeAbb(unsigned int, _rep_abb*) (abb.cpp:135)
+> ==8239==    by 0x10993B: main (principal.cpp:167)
+> ==8239==  Block was alloc'd at
+> ==8239==    at 0x483BE63: operator new(unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==8239==    by 0x10B0EC: crearInfo(unsigned int, double) (info.cpp:25)
+> ==8239==    by 0x10B36F: leerInfo() (info.cpp:72)
+> ==8239==    by 0x1098A7: main (principal.cpp:157)
+> ==8239== 
+> ==8239== Invalid free() / delete / delete[] / realloc()
+> ==8239==    at 0x483D1CF: operator delete(void*, unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==8239==    by 0x10B16D: liberarInfo(_rep_info*) (info.cpp:37)
+> ==8239==    by 0x10AD52: removerDeAbb2(unsigned int, _rep_abb*&) (abb.cpp:114)
+> ==8239==    by 0x10AE8C: removerDeAbb(unsigned int, _rep_abb*) (abb.cpp:135)
+> ==8239==    by 0x10993B: main (principal.cpp:167)
+> ==8239==  Address 0x4db6280 is 0 bytes inside a block of size 16 free'd
+> ==8239==    at 0x483D1CF: operator delete(void*, unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==8239==    by 0x10B16D: liberarInfo(_rep_info*) (info.cpp:37)
+> ==8239==    by 0x10AD52: removerDeAbb2(unsigned int, _rep_abb*&) (abb.cpp:114)
+> ==8239==    by 0x10AE10: removerDeAbb2(unsigned int, _rep_abb*&) (abb.cpp:123)
+> ==8239==    by 0x10AE8C: removerDeAbb(unsigned int, _rep_abb*) (abb.cpp:135)
+> ==8239==    by 0x10993B: main (principal.cpp:167)
+> ==8239==  Block was alloc'd at
+> ==8239==    at 0x483BE63: operator new(unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==8239==    by 0x10B0EC: crearInfo(unsigned int, double) (info.cpp:25)
+> ==8239==    by 0x10B36F: leerInfo() (info.cpp:72)
+> ==8239==    by 0x1098A7: main (principal.cpp:157)
+> ==8239== 
+68a143,148
+> ==8239== 16 bytes in 1 blocks are definitely lost in loss record 1 of 1
+> ==8239==    at 0x483BE63: operator new(unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==8239==    by 0x10B0EC: crearInfo(unsigned int, double) (info.cpp:25)
+> ==8239==    by 0x10B36F: leerInfo() (info.cpp:72)
+> ==8239==    by 0x1098A7: main (principal.cpp:157)
+> ==8239== 

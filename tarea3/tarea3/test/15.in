@@ -1,0 +1,120 @@
+# implementar primeroEnCadena cadenaSiguiente
+# cadena vacía
+cantidadEnCadena
+estaEnCadena 5
+imprimirCadena
+cadenaSiguiente 0
+cadenaSiguiente 1
+# cadena con un elemento
+insertarAlInicio 5 5.0
+cantidadEnCadena
+estaEnCadena 5
+estaEnCadena 3
+imprimirCadena
+primeroEnCadena
+infoCadena 5
+cadenaSiguiente 0
+cadenaSiguiente 1
+cadenaSiguiente 2
+# cadena con dos elementos
+reiniciarEstructuras
+insertarAlInicio 5 5.0
+insertarAlInicio 3 3.0
+cantidadEnCadena
+estaEnCadena 5
+imprimirCadena
+primeroEnCadena
+infoCadena 3
+infoCadena 5
+cadenaSiguiente 0
+cadenaSiguiente 1
+cadenaSiguiente 2
+cadenaSiguiente 3
+# remover el único
+reiniciarEstructuras
+insertarAlInicio 5 5.0
+removerDeCadena 5
+cantidadEnCadena
+estaEnCadena 5
+imprimirCadena
+cadenaSiguiente 0
+cadenaSiguiente 1
+# cadena con tres elementos
+insertarAlInicio 5 5.0
+insertarAlInicio 3 3.0
+insertarAlInicio 7 7.0
+cantidadEnCadena
+estaEnCadena 5
+estaEnCadena 3
+estaEnCadena 7
+estaEnCadena 9
+imprimirCadena
+primeroEnCadena
+infoCadena 5
+infoCadena 3
+infoCadena 7
+cadenaSiguiente 0
+cadenaSiguiente 1
+cadenaSiguiente 2
+cadenaSiguiente 3
+cadenaSiguiente 4
+# cadena con varios elementos
+insertarAlInicio 8 8.0
+insertarAlInicio 9 9.0
+insertarAlInicio 1 1.0
+insertarAlInicio 2 2.0
+insertarAlInicio 4 4.0
+insertarAlInicio 1 91.0
+insertarAlInicio 6 6.0
+insertarAlInicio 0 0.0
+insertarAlInicio 11 11.0
+insertarAlInicio 15 15.0
+cantidadEnCadena
+estaEnCadena 11
+estaEnCadena 15
+estaEnCadena 14
+imprimirCadena
+primeroEnCadena
+infoCadena 15
+infoCadena 5
+infoCadena 11
+cadenaSiguiente 0
+cadenaSiguiente 1
+cadenaSiguiente 11
+cadenaSiguiente 12
+cadenaSiguiente 13
+# se remueve uno intermedio
+removerDeCadena 1
+cantidadEnCadena
+primeroEnCadena
+cadenaSiguiente 0
+cadenaSiguiente 3
+cadenaSiguiente 4
+# se remueve el segundo
+removerDeCadena 11
+cantidadEnCadena
+primeroEnCadena
+cadenaSiguiente 0
+cadenaSiguiente 1
+# se remueve el penultimo
+removerDeCadena 3
+cantidadEnCadena
+primeroEnCadena
+cadenaSiguiente 0
+cadenaSiguiente 8
+cadenaSiguiente 9
+# se remueve el último
+removerDeCadena 5
+cantidadEnCadena
+primeroEnCadena
+cadenaSiguiente 0
+cadenaSiguiente 8
+cadenaSiguiente 9
+# se remueve el primero
+removerDeCadena 15
+cantidadEnCadena
+primeroEnCadena
+cadenaSiguiente 0
+cadenaSiguiente 7
+cadenaSiguiente 8
+Fin

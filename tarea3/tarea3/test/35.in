@@ -1,0 +1,41 @@
+# implementar avanzarIterador
+avanzarIterador
+estaDefinidaActual
+reiniciarIterador
+avanzarIterador
+estaDefinidaActual
+agregarAIterador 5
+avanzarIterador
+estaDefinidaActual
+reiniciarIterador
+estaDefinidaActual
+actualEnIterador
+avanzarIterador
+estaDefinidaActual
+agregarAIterador 5
+agregarAIterador 6
+agregarAIterador 7
+estaDefinidaActual
+avanzarIterador
+reiniciarIterador
+estaDefinidaActual
+actualEnIterador
+avanzarIterador
+actualEnIterador
+avanzarIterador
+actualEnIterador
+avanzarIterador
+actualEnIterador
+avanzarIterador
+estaDefinidaActual
+reiniciarIterador
+estaDefinidaActual
+actualEnIterador
+avanzarIterador
+avanzarIterador
+avanzarIterador
+estaDefinidaActual
+actualEnIterador
+avanzarIterador
+estaDefinidaActual
+Fin

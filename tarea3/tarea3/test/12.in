@@ -1,0 +1,27 @@
+# implementar insertarAlInicio, imprimirCadena
+imprimirCadena
+insertarAlInicio 5 5.0
+imprimirCadena
+cantidadEnCadena
+estaEnCadena 1
+estaEnCadena 5
+insertarAlInicio 1 1.0
+imprimirCadena
+cantidadEnCadena
+estaEnCadena 1
+insertarAlInicio 0 0.0
+insertarAlInicio 2 2.0
+insertarAlInicio 8 8.0
+insertarAlInicio 3 3.0
+insertarAlInicio 7 7.0
+insertarAlInicio 4 4.0
+insertarAlInicio 6 6.0
+insertarAlInicio 1 1.0
+imprimirCadena
+cantidadEnCadena
+estaEnCadena 1
+estaEnCadena 5
+estaEnCadena 0
+estaEnCadena 6
+estaEnCadena 9
+Fin

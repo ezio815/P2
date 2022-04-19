@@ -1,0 +1,18 @@
+1>#  implementar infoCadena.
+2>Se insertó (5,5.00) al inicio de la cadena.
+3>El elemento es (5,5.00)
+4>Se insertó (1,11.10) al inicio de la cadena.
+5>Se insertó (0,0.00) al inicio de la cadena.
+6>Se insertó (2,2.00) al inicio de la cadena.
+7>Se insertó (8,8.00) al inicio de la cadena.
+8>Se insertó (3,3.00) al inicio de la cadena.
+9>Se insertó (7,7.00) al inicio de la cadena.
+10>Se insertó (4,4.00) al inicio de la cadena.
+11>Se insertó (6,6.00) al inicio de la cadena.
+12>Se insertó (1,1.00) al inicio de la cadena.
+13>(1,1.00)(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(1,11.10)(5,5.00)
+14>La cantidad es 10.
+15>El elemento es (1,1.00)
+16>El elemento es (0,0.00)
+17>El elemento es (6,6.00)
+18>Fin.

@@ -1,0 +1,33 @@
+# implementar linealizacion, imprimirAbb, copiaAbb, consAbb
+linealizacion
+imprimirAbb
+copiaAbb
+consAbb (10,10.0) 1 20
+esVacioAbb
+insertarEnAbb (5,5.0)
+linealizacion
+imprimirAbb
+copiaAbb
+consAbb (9,9.0) 5 20
+consAbb (3,3.0) 1 5
+insertarEnAbb (2,2.0)
+insertarEnAbb (30,30.0)
+linealizacion
+imprimirAbb
+insertarEnAbb (20,20.0)
+insertarEnAbb (10,10.0)
+insertarEnAbb (15,15.0)
+insertarEnAbb (25,25.0)
+insertarEnAbb (40,40.0)
+insertarEnAbb (35,35.0)
+insertarEnAbb (38,38.0)
+insertarEnAbb (50,50.0)
+insertarEnAbb (45,45.0)
+insertarEnAbb (60,60.0)
+linealizacion
+imprimirAbb
+copiaAbb
+consAbb (26,26.0) 20 40
+consAbb (34,34.0) 20 40
+Fin
+

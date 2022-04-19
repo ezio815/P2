@@ -1,0 +1,35 @@
+ # implementar caminoAscendente
+insertarEnAbb (20,20.00)
+insertarEnAbb (15,25.0)
+insertarEnAbb (10,10.0)
+insertarEnAbb (40,11.0)
+insertarEnAbb (50,5.0)
+insertarEnAbb (30,15.0)
+insertarEnAbb (25,6.0)
+insertarEnAbb (35,10.0)
+insertarEnAbb (32,5.0)
+insertarEnAbb (27,4.0)
+imprimirAbb
+caminoAscendente 20 0
+caminoAscendente 20 1
+caminoAscendente 20 2
+caminoAscendente 40 0
+caminoAscendente 40 1
+caminoAscendente 40 2
+caminoAscendente 40 3
+caminoAscendente 15 0
+caminoAscendente 15 1
+caminoAscendente 15 2
+caminoAscendente 15 3
+caminoAscendente 50 0
+caminoAscendente 50 2
+caminoAscendente 50 4
+caminoAscendente 10 3
+caminoAscendente 25 3
+caminoAscendente 35 0
+caminoAscendente 35 2
+caminoAscendente 32 0
+caminoAscendente 32 4
+caminoAscendente 32 5
+caminoAscendente 32 6
+Fin

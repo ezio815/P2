@@ -1,0 +1,31 @@
+ # implementar menores
+menores 20.0
+insertarEnAbb (20,20.00)
+menores 20.0
+menores 21.0
+insertarEnAbb (15,25.0)
+menores 21.0
+menores 25.0
+menores 26.0
+insertarEnAbb (10,10.0)
+menores 20.0
+insertarEnAbb (40,11.0)
+menores 11.0
+menores 12.0
+insertarEnAbb (50,5.0)
+menores 10.0
+menores 11.0
+insertarEnAbb (30,15.0)
+insertarEnAbb (25,6.0)
+insertarEnAbb (35,10.0)
+menores 10.0
+menores 11.0
+menores 6.0
+insertarEnAbb (32,5.0)
+menores 6.0
+menores 12.0
+insertarEnAbb (27,4.0)
+menores 5.0
+menores 12.0
+menores 11.0
+Fin
