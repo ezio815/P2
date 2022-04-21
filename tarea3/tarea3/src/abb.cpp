@@ -99,13 +99,14 @@ void insertarEnAbb2(TInfo dato, TAbb &abb) {
 }
 
 TAbb insertarEnAbb(TInfo dato, TAbb abb) {
-  insertarEnAbb2(dato, abb);
-
-  return abb;
+    insertarEnAbb2(dato, abb);
+    return abb;
 }
 
 
-void removerDeAbb2(nat clave, TAbb &abb){
+
+
+TAbb removerDeAbb(nat clave, TAbb abb) {
     if (abb != NULL){
         if(natInfo(abb->info) == clave){
             if (abb->izq == NULL){
@@ -119,20 +120,16 @@ void removerDeAbb2(nat clave, TAbb &abb){
                 liberarInfo(aux->info);
                 delete aux;
             }else{
-                abb->info = mayorEnAbb(abb->izq);
-                removerDeAbb2(natInfo(abb->info), abb->izq);
+                liberarInfo(abb->info);
+                abb->info = copiaInfo(mayorEnAbb(abb->izq));
+                abb->izq = removerDeAbb(natInfo(abb->info), abb->izq);
             }
         }else if(clave < natInfo(abb->info)){
-            removerDeAbb2(clave, abb->izq);
+           abb->izq = removerDeAbb(clave, abb->izq);
         }else{
-            removerDeAbb2(clave, abb->der);
+           abb->der = removerDeAbb(clave, abb->der);
         }
     }
-}
-
-TAbb removerDeAbb(nat clave, TAbb abb) {
-
-    removerDeAbb2(clave, abb);
     return abb;
 }
 
@@ -141,9 +138,9 @@ TAbb copiaAbb(TAbb abb) {
         return NULL;
     }else{ 
         TAbb copia = new _rep_abb;
-        copia -> info = copia -> info;
-        copia -> der = copiaAbb (copia -> der);
-        copia -> izq = copiaAbb (copia -> izq);
+        copia -> info = abb -> info;
+        copia -> der = copiaAbb (abb -> der);
+        copia -> izq = copiaAbb (abb -> izq);
         return copia;
     }
 }

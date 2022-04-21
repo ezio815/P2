@@ -1,18 +1,18 @@
-==8296== Invalid read of size 8
-==8296==    at 0x10A8E8: reiniciarIterador(_rep_iterador*) (iterador.cpp:63)
-==8296==    by 0x109C81: main (principal.cpp:217)
-==8296==  Address 0x0 is not stack'd, malloc'd or (recently) free'd
-==8296== 
-==8296== 
-==8296== Process terminating with default action of signal 11 (SIGSEGV)
-==8296==  Access not within mapped region at address 0x0
-==8296==    at 0x10A8E8: reiniciarIterador(_rep_iterador*) (iterador.cpp:63)
-==8296==    by 0x109C81: main (principal.cpp:217)
-==8296==  If you believe this happened as a result of a stack
-==8296==  overflow in your program's main thread (unlikely but
-==8296==  possible), you can try to increase the size of the
-==8296==  main thread stack using the --main-stacksize= flag.
-==8296==  The main thread stack size used in this run was 8388608.
+==12708== Invalid read of size 8
+==12708==    at 0x10A8E8: reiniciarIterador(_rep_iterador*) (iterador.cpp:63)
+==12708==    by 0x109C81: main (principal.cpp:217)
+==12708==  Address 0x0 is not stack'd, malloc'd or (recently) free'd
+==12708== 
+==12708== 
+==12708== Process terminating with default action of signal 11 (SIGSEGV)
+==12708==  Access not within mapped region at address 0x0
+==12708==    at 0x10A8E8: reiniciarIterador(_rep_iterador*) (iterador.cpp:63)
+==12708==    by 0x109C81: main (principal.cpp:217)
+==12708==  If you believe this happened as a result of a stack
+==12708==  overflow in your program's main thread (unlikely but
+==12708==  possible), you can try to increase the size of the
+==12708==  main thread stack using the --main-stacksize= flag.
+==12708==  The main thread stack size used in this run was 8388608.
 1>#  implementar caminoAscendente.
 2>Se insertó (20,20.00) en el abb.
 3>Se insertó (15,25.00) en el abb.

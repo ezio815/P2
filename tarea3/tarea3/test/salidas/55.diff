@@ -1,80 +1,42 @@
-0a1,47
-> ==8258== Conditional jump or move depends on uninitialised value(s)
-> ==8258==    at 0x10AEA8: copiaAbb(_rep_abb*) (abb.cpp:140)
-> ==8258==    by 0x10AEDC: copiaAbb(_rep_abb*) (abb.cpp:145)
-> ==8258==    by 0x109989: main (principal.cpp:171)
-> ==8258== 
-> ==8258== Conditional jump or move depends on uninitialised value(s)
-> ==8258==    at 0x10AEA8: copiaAbb(_rep_abb*) (abb.cpp:140)
-> ==8258==    by 0x10AEF4: copiaAbb(_rep_abb*) (abb.cpp:146)
-> ==8258==    by 0x109989: main (principal.cpp:171)
-> ==8258== 
-> ==8258== Conditional jump or move depends on uninitialised value(s)
-> ==8258==    at 0x10B15F: liberarInfo(_rep_info*) (info.cpp:37)
-> ==8258==    by 0x10A9BC: liberarAbb(_rep_abb*) (abb.cpp:19)
-> ==8258==    by 0x1099B8: main (principal.cpp:174)
-> ==8258== 
-> ==8258== Conditional jump or move depends on uninitialised value(s)
-> ==8258==    at 0x10AEA8: copiaAbb(_rep_abb*) (abb.cpp:140)
-> ==8258==    by 0x10AEDC: copiaAbb(_rep_abb*) (abb.cpp:145)
-> ==8258==    by 0x109A5A: main (principal.cpp:186)
-> ==8258== 
-> ==8258== Conditional jump or move depends on uninitialised value(s)
-> ==8258==    at 0x10AEA8: copiaAbb(_rep_abb*) (abb.cpp:140)
-> ==8258==    by 0x10AEF4: copiaAbb(_rep_abb*) (abb.cpp:146)
-> ==8258==    by 0x109A5A: main (principal.cpp:186)
-> ==8258== 
-> ==8258== Conditional jump or move depends on uninitialised value(s)
-> ==8258==    at 0x10B15F: liberarInfo(_rep_info*) (info.cpp:37)
-> ==8258==    by 0x10A9BC: liberarAbb(_rep_abb*) (abb.cpp:19)
-> ==8258==    by 0x10A9AD: liberarAbb(_rep_abb*) (abb.cpp:18)
-> ==8258==    by 0x109AA1: main (principal.cpp:189)
-> ==8258== 
-> ==8258== Conditional jump or move depends on uninitialised value(s)
-> ==8258==    at 0x10AEA8: copiaAbb(_rep_abb*) (abb.cpp:140)
-> ==8258==    by 0x10AEDC: copiaAbb(_rep_abb*) (abb.cpp:145)
-> ==8258==    by 0x109A48: main (principal.cpp:186)
-> ==8258== 
-> ==8258== Conditional jump or move depends on uninitialised value(s)
-> ==8258==    at 0x10AEA8: copiaAbb(_rep_abb*) (abb.cpp:140)
-> ==8258==    by 0x10AEF4: copiaAbb(_rep_abb*) (abb.cpp:146)
-> ==8258==    by 0x109A48: main (principal.cpp:186)
-> ==8258== 
-> ==8258== Conditional jump or move depends on uninitialised value(s)
-> ==8258==    at 0x10B15F: liberarInfo(_rep_info*) (info.cpp:37)
-> ==8258==    by 0x10A9BC: liberarAbb(_rep_abb*) (abb.cpp:19)
-> ==8258==    by 0x10A99D: liberarAbb(_rep_abb*) (abb.cpp:17)
-> ==8258==    by 0x109AA1: main (principal.cpp:189)
-> ==8258== 
-6d52
+1,90d0
+< 1>#  implementar linealizacion, imprimirAbb, copiaAbb, consAbb.
+< 2>
+< 3>
+< 4>
+< 5>
 < (10,10.00)
-9c55
+< 6>El abb es vacío.
+< 7>Se insertó (5,5.00) en el abb.
 < 8>(5,5.00)
----
-> 8>
-11d56
+< 9>
 < (5,5.00)
-13d57
+< 10>
 < (5,5.00)
-15,16d58
+< 11>
 < (9,9.00)
 < -(5,5.00)
-18,19d59
+< 12>
 < -(5,5.00)
 < (3,3.00)
-22c62
+< 13>Se insertó (2,2.00) en el abb.
+< 14>Se insertó (30,30.00) en el abb.
 < 15>(2,2.00)(5,5.00)(30,30.00)
----
-> 15>
-24,26d63
+< 16>
 < -(30,30.00)
 < (5,5.00)
 < -(2,2.00)
-37c74
+< 17>Se insertó (20,20.00) en el abb.
+< 18>Se insertó (10,10.00) en el abb.
+< 19>Se insertó (15,15.00) en el abb.
+< 20>Se insertó (25,25.00) en el abb.
+< 21>Se insertó (40,40.00) en el abb.
+< 22>Se insertó (35,35.00) en el abb.
+< 23>Se insertó (38,38.00) en el abb.
+< 24>Se insertó (50,50.00) en el abb.
+< 25>Se insertó (45,45.00) en el abb.
+< 26>Se insertó (60,60.00) en el abb.
 < 27>(2,2.00)(5,5.00)(10,10.00)(15,15.00)(20,20.00)(25,25.00)(30,30.00)(35,35.00)(38,38.00)(40,40.00)(45,45.00)(50,50.00)(60,60.00)
----
-> 27>
-39,51d75
+< 28>
 < ----(60,60.00)
 < ---(50,50.00)
 < ----(45,45.00)
@@ -88,7 +50,7 @@
 < ---(10,10.00)
 < (5,5.00)
 < -(2,2.00)
-53,65d76
+< 29>
 < ----(60,60.00)
 < ---(50,50.00)
 < ----(45,45.00)
@@ -102,7 +64,7 @@
 < ---(10,10.00)
 < (5,5.00)
 < -(2,2.00)
-67,77d77
+< 30>
 < ---(60,60.00)
 < --(50,50.00)
 < ---(45,45.00)
@@ -114,7 +76,7 @@
 < -(20,20.00)
 < ---(15,15.00)
 < --(10,10.00)
-79,89d78
+< 31>
 < ---(60,60.00)
 < --(50,50.00)
 < ---(45,45.00)
@@ -126,3 +88,4 @@
 < -(20,20.00)
 < ---(15,15.00)
 < --(10,10.00)
+< 32>Fin.
